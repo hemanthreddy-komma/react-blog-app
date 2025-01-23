@@ -20,8 +20,8 @@ This repository contains a straightforward React blog application with a RESTful
 Install MongoDb Database
 
 ```bash
-git clone git@github.com:jahidhiron/raect-blog-app.git
-cd raect-blog-app
+git clone git@github.com:hemanthreddy-komma/react-blog-app.git
+cd react-blog-app
 npm install
 ```
 
